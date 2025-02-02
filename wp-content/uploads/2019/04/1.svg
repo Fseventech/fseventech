@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="40%" y1="100%" x2="60%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1880D4" offset="0%"></stop>
+            <stop stop-color="#AA29AD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="url(#linearGradient-1)" cx="45" cy="45" r="45"></circle>
+        <g id="synced-folder-3940_86ae5445-c111-4326-975b-860bda9c4c9a" transform="translate(23.000000, 27.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1.5">
+            <path d="M39,13.575 L39,4.5 L15,4.5 L15,0 L0,0 L0,30.225 C3.33066907e-16,30.9291631 0.570836944,31.5 1.275,31.5 L23.625,31.5" id="Path"></path>
+            <circle id="Oval" cx="33" cy="24" r="12"></circle>
+            <polyline id="Path" points="38.25 21 32.25 27.75 28.5 24"></polyline>
+        </g>
+    </g>
+</svg>

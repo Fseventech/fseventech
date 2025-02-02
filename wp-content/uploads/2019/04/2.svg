@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="40%" y1="100%" x2="60%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#CB7FAB" offset="0%"></stop>
+            <stop stop-color="#04BEF6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="url(#linearGradient-1)" cx="45" cy="45" r="45"></circle>
+        <g id="ssd-storage-1808_87df4433-d5c2-4267-bae0-9acf91eabf99" transform="translate(23.000000, 28.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1.5">
+            <rect id="Rectangle" x="0" y="19.5" width="45" height="15" rx="1.5"></rect>
+            <path d="M0.15,20.4 L5.55,3 C6.225,0.975 7.5,0 9,0 L36,0 C37.6868654,0.12707942 39.0899153,1.34712279 39.45,3 L44.85,20.4" id="Path"></path>
+            <path d="M7.5,28.5 L37.5,28.5" id="Path"></path>
+            <circle id="Oval" cx="37.5" cy="24" r="1"></circle>
+        </g>
+    </g>
+</svg>

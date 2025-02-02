@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="25%" x2="100%" y2="75%" id="linearGradient-1">
+            <stop stop-color="#F3975A" offset="0%"></stop>
+            <stop stop-color="#B00892" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="url(#linearGradient-1)" cx="45" cy="45" r="45"></circle>
+        <g id="message-app-4765_f7c233fe-85a9-424d-9e71-ae49441903f9" transform="translate(23.000000, 23.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1.5">
+            <polyline id="Path" points="23.85 19.5 30 19.5 30 24.75 35.7 19.5 45 19.5 45 0 16.5 0 16.5 13.5"></polyline>
+            <circle id="Oval" cx="30.75" cy="9" r="1"></circle>
+            <circle id="Oval" cx="24.75" cy="9" r="1"></circle>
+            <circle id="Oval" cx="36.75" cy="9" r="1"></circle>
+            <path d="M26.55,39.225 C20.4,38.175 21,36.6 21,35.55 L21,33.675 C22.9861278,31.6614779 24.0689286,28.9274058 24,26.1 L24,21.075 C24,15.6 20.025,13.5 16.5,13.5 C12.975,13.5 9,15.6 9,21.075 L9,26.1 C8.94208465,28.9399864 10.0539424,31.6789531 12.075,33.675 L12.075,35.55 C12.075,36.6 12.6,38.175 6.525,39.225 C0.45,40.275 0,43.5 0,45 L33,45 C33,43.5 32.025,40.2 26.55,39.225 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
